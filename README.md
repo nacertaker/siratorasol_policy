@@ -72,7 +72,9 @@ _آخر تحديث: 11 نوفمبر 2026 (الإصدار 2.0.0)_
 
 ### ١٠. التواصل
 
-لأي سؤال عن هذه السياسة: افتح موضوعاً في [صفحة Issues لهذا المستودع](https://github.com/nacertaker/siratorasol_policy/issues) على GitHub (الصفحة علنية، فلا تكتب فيها بيانات شخصية)، أو راسلنا عبر [صفحة المطوّر على Google Play](https://play.google.com/store/apps/developer?id=FENNECSOFT).
+لأي سؤال عن هذه السياسة راسلنا على البريد الإلكتروني: [nacertaker@gmail.com](mailto:nacertaker@gmail.com)
+
+ويمكنك أيضاً فتح موضوع في [صفحة Issues لهذا المستودع](https://github.com/nacertaker/siratorasol_policy/issues) على GitHub (الصفحة علنية، فلا تكتب فيها بيانات شخصية)، أو التواصل عبر [صفحة المطوّر على Google Play](https://play.google.com/store/apps/developer?id=FENNECSOFT).
 
 </div>
 
@@ -142,5 +144,7 @@ If what the app does with data ever changes, we will publish the update on this 
 
 ### 10. Contact
 
-For any question about this policy, open a topic on the [Issues page of this repository](https://github.com/nacertaker/siratorasol_policy/issues) on GitHub (the page is public, so do not include personal data), or contact us through the [developer page on Google Play](https://play.google.com/store/apps/developer?id=FENNECSOFT).
+For any question about this policy, email us at [nacertaker@gmail.com](mailto:nacertaker@gmail.com).
+
+You can also open a topic on the [Issues page of this repository](https://github.com/nacertaker/siratorasol_policy/issues) on GitHub (the page is public, so do not include personal data), or reach us through the [developer page on Google Play](https://play.google.com/store/apps/developer?id=FENNECSOFT).
 
